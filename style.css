@@ -1,0 +1,25 @@
+body
+{
+    background-color: grey;
+}
+
+p
+{
+    color:white;
+    font-size: larger 
+}
+h2
+{
+    color: white;
+}
+
+p.abc
+{
+    color:white;
+    text-align: right;
+}
+
+p.bcd
+{
+    text-align:"left";
+}
